@@ -1,0 +1,6 @@
+pyscreenshot
+opencv-python
+pandas
+scikit-learn
+matplotlib
+joblib
